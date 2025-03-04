@@ -1,4 +1,4 @@
 #auto scaling
 #route53
-#custom rule 
+#waf custom rule 
 #learning ecs ecr eks 
